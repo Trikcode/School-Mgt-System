@@ -1,0 +1,42 @@
+body {
+  min-height: 2000px;
+}
+body > .ui.container {
+  margin-top: 6em;
+}
+.offices {
+  color: #fff;
+}
+.flags a {
+  padding: 0.012em;
+}
+/* Nav */
+.ui.fixed.borderless.menu {
+  background-color: #008a40;
+}
+
+.ui .computer.only .item {
+  color: #fff;
+}
+
+.ui .computer.only .item:hover {
+  background: #6311aa !important;
+  color: #fff !important;
+  border-bottom: 1px solid #fff;
+}
+
+.ui .computer .item.active {
+  background: #00ba49;
+  color: #fff;
+  border-bottom: 1px solid #fff;
+}
+a .item {
+  color: white;
+}
+.logo {
+  height: 40px;
+  width: 40px;
+  object-fit: contain;
+  margin-top: 10px;
+  border-radius: 5px;
+}

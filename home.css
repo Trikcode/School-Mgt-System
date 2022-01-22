@@ -1,0 +1,51 @@
+h4 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.box {
+  background-color: white;
+  box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px,
+    rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+  border-radius: 10px;
+}
+.complaints {
+  text-align: center;
+  margin: 2rem;
+}
+.jumbotron-heading {
+  display: flex;
+  text-align: left;
+  padding: 10px;
+  font-size: 15px;
+}
+.jumbotron-heading h3 {
+  padding-right: 3px;
+  padding-left: 3px;
+}
+.one {
+  padding-left: -10px;
+}
+.two {
+  padding: 2rem;
+}
+.sendbtn {
+  padding: 3px;
+  background-color: rgb(33, 156, 66);
+  border-radius: 5px;
+  color: white;
+}
+.one h5 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+.complaints h4 {
+  font-size: 20px;
+}
+.index-form,
+.marks,
+.complaint {
+  background-color: white;
+  box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px,
+    rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+  border-radius: 10px;
+  padding: 2rem;
+}
